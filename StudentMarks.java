@@ -1,5 +1,4 @@
 /*
-* Copyright (c) 2020
 *
 * This program determines the average mark of 
 * students in class.
